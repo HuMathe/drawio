@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T07:50:30.257Z" agent="5.0 (X11)" etag="UUibGGGs7EFhpnst0diK" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-02T07:51:43.383Z" agent="5.0 (X11)" etag="7vIyHtEdHE1GY-5VVMFU" version="17.4.0" type="github">
   <diagram id="bTU2S23gX0W00nSwRtuq" name="Page-1">
     <mxGraphModel dx="1350" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NkBjdo7hyRLlcbkVP-sz-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+        <mxCell id="mbiR73O7lJCnoni5KqEU-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="230" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="NkBjdo7hyRLlcbkVP-sz-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" parent="1" vertex="1">
           <mxGeometry x="180" y="240" width="90" height="120" as="geometry" />
         </mxCell>
       </root>
